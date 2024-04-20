@@ -1,3 +1,4 @@
+# **[DO NOT USE - DOES NOT WORK AT THE MOMENT]**
 # Android device tree for NB55R NB55R (NB55R)
 
 ```
